@@ -1,1 +1,1 @@
-# dlmd-first-neural-netowrk
+# dlnd-first-neural-netowrk
